@@ -1,0 +1,39 @@
+Point a -> 15mm above HP and 40mm infront of VP -> 
+1st quadrant 
+
+Point b -> 20mm above HP and 40mm behind VP -> 
+2nd quadrant
+
+Point c -> 40mm below HP and 40mm infront of VP -> 
+4th quadrant 
+
+Point d -> 25mm below HP and 20mm behind VP -> 
+3rd quadrant 
+
+Notes:
+
+* Above and Behind means Above the XY Plane
+* Below and Infront means Below the XY Plane 
+
+Assignment Questions:
+
+Point A, which is 40mm above HP and 55mm infront of VP
+Point B, which is 10mm above HP and 15mm behind VP
+Point C, which is 25mm below HP and 29mm behind VP
+Point D, which is 20mm below HP and 20mm infront of VP	
+
+Second part
+
+Line AB 75mm long makes 45 degree inclination with VP while 
+its Front view makes 55 degree. End A is 10mm above HP and 
+15mm infront of VP. If line is in 1st quadrant. Draw it's 
+projection and find it's inclination with HP.
+
+
+Given:
+True Length : 75mm
+45 inclination with VP
+55 inclination in front view
+
+End of A is 10mm above HP 
+            15mm infront of VP 
